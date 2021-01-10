@@ -1,0 +1,6 @@
+../output/
+    log/
+    img/{fixed_noise}/{search_iter}/{epoch}.png
+        各iterでの最良のdesignをゼロから学習した時のepochでの画像
+    design/{search_iter}.txt
+        各iterでの最良のdesign

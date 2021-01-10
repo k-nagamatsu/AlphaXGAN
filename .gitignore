@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__
+models/__pychache__
+models/.DS_Store
+utils/__pychachle__
+utils/.DS_Store
+fid_stat
